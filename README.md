@@ -9,9 +9,11 @@
 
 ---
 
+<h1>Notice: The hosted formbee.dev site is now offline as of July 2026. This repository remains open source for anyone to continue to self host the service.</h1>
+
 <h2>🐝 Overview</h2>
 
-<p>FormBee is an easy way to send form data that is submitted on your website to your email, Telegram, Webhooks, Etc. It is a "Form Backend" which means it allows you to have functional forms that send places without having to write any server side code yourself! We have a hosted option available here: <a href="https://formbee.dev">FormBee Website</a> or you can self-host it!</p>
+<p>FormBee is an easy way to send form data that is submitted on your website to your email, Telegram, Webhooks, Etc. It is a "Form Backend" which means it allows you to have functional forms that send places without having to write any server side code yourself!</p>
 
 ---
 
@@ -23,7 +25,6 @@
    - 🖥 [Server Side](#-server-side)
 - 🌱 [Contributing](#-contributing)
 - 🛠 [Tech Stack](#-tech-stack)
-- 🏆 [Credits](#-credits)
 - 📜 [License](#-license)
 
 ---
@@ -110,23 +111,6 @@ npm run dev
 ```
 
 **With that the server should be running.**
-
----
-
-
-
-<h2>🌱 Contributing</h2> <p>We welcome contributions! Feel free to open an issue or submit a pull request if you'd like to help improve FormBee.</p> <ul> <li>Fork the repository</li> <li>Create a new branch (<code>git checkout -b feature-branch</code>)</li> <li>Make your changes</li> <li>Commit your changes (<code>git commit -m 'Add some feature'</code>)</li> <li>Push to the branch (<code>git push origin feature-branch</code>)</li> <li>Open a pull request</li> </ul>
-
----
-
-<h2>🏆 Credits</h2> 
-
-
-
-<p>👋 Hey! I'm <a href="https://github.com/Oia20">Jacob Dement</a>, I created and currently maintain Formbee. 
-<a href="https://buymeacoffee.com/jacobdemenl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-(When you contribute feel free to sign and plug yourself here in your PR)
 
 ---
 
